@@ -13,19 +13,24 @@ This is a perfect example of a task that is not suited for Bash scripting, so le
 # Read or watch:
 
 [Friends don’t let friends program in shell script](https://intranet.alxswe.com/rltoken/KMFzqRAqedMf7AHHBD_43g)
+
 [What is an API](https://intranet.alxswe.com/rltoken/zeBO6_RNTlwaotyRRNAzoQ)
+
 [What is an API? In English, please](https://intranet.alxswe.com/rltoken/bf09Qp6QY44CANLzxxRbPA)
+
 [What is a REST API](https://intranet.alxswe.com/rltoken/fA164QWEnZxaSngBD3EPRQ)
+
 [What are microservices](https://intranet.alxswe.com/rltoken/lktnmAVnhFFsg5zK2CXEKg)
+
 [PEP8 Python style - having a clean code respecting style guide is really appreciated in the industry](https://intranet.alxswe.com/rltoken/b7V1ROY6kSRxDDKnsJoqxg)
 
 # Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
 # General
-What Bash scripting should not be used for
-What is an API
-What is a REST API
+  What Bash scripting should not be used for
+  What is an API
+  What is a REST API
 What are microservices
 What is the CSV format
 What is the JSON format
